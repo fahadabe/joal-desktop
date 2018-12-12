@@ -2,7 +2,7 @@
 [![TravisCI](https://travis-ci.org/anthonyraymond/joal-desktop.svg?branch=master)](https://travis-ci.org/anthonyraymond/joal-desktop)
 
 # Disclamer
-JOAL is not designed to help you download illegal materials ! Don't break your country's law. I couldn't be held responsible for illegal activities performed by your usage of JOAL.
+JOAL is not designed to help or encourage you downloading illegal materials ! You must respect the law applicable in your country. I couldn't be held responsible for illegal activities performed by your usage of JOAL.
 
 
 # joal-desktop
